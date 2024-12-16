@@ -1,6 +1,8 @@
-In this project, you’ll be building an interactive terminal game. The scenario is that the player has lost their hat in a field full of holes, and they must navigate back to it without falling down one of the holes or stepping outside of the field.
+## Project goals
+The goal is to build an interactive terminal game. The scenario is that the player has lost their hat in a field full of holes, and they must navigate back to it without falling down one of the holes or stepping outside of the field.
 
-If you’d like to extend your project past our requirements, here are a few ideas:
+## Possible extensions
+If you’d like to extend your project past basic requirements, here are a few ideas:
 
 1. Have the character start on a random location that’s not the upper-left corner.
 2. Create a “hard mode” where one or more holes are added after certain turns.
